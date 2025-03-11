@@ -1,7 +1,7 @@
 # IngegneriaFisica-Matematica
 # 🎓 Ingegneria Fisica e Matematica - Università di Brescia 
 
-📚 **Raccolta di materiale didattico per gli studenti del corso di Ingegneria Fisica e Matematica (Triennale) presso l'Università di Brescia [05715] .**  
+📚 **Raccolta di materiale didattico per gli studenti del corso di [Ingegneria Fisica e Matematica](https://unibs.coursecatalogue.cineca.it/corsi/2024/1425?annoOrdinamento=2024) (Triennale) presso l'Università di Brescia [05715] .**  
 
 Questo repository contiene appunti, esercizi, dispense e prove d'esame passate, condivisi e curati dagli studenti. **Non è un materiale ufficiale**, ma uno strumento di supporto creato dalla community di studenti per gli studenti.  
 
@@ -38,4 +38,4 @@ Per scaricare tutto il repository, puoi scegliere tra:
 
 ✅ **Metodo 2** – Clonare il repository con Git:  
 ```bash
-git clone https://github.com/tuo-username/IngegneriaInformatica.git
+git clone [https://github.com/MariusGula/IngegneriaFisica-Matematica]
