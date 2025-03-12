@@ -29,6 +29,13 @@ L'obiettivo è esclusivamente quello di aiutare gli studenti nel loro percorso a
 
 ---
 
+## 🤝 Contributori
+
+Grazie a tutti i contributori che hanno aiutato a migliorare questo repository!
+![Contributors](https://img.shields.io/github/contributors/MariusGula/IngegneriaFisica-Matematica)
+
+---
+
 ## 📥 Come Scaricare il Materiale  
 Per scaricare tutto il repository, puoi scegliere tra:  
 ✅ **Metodo 1** – Scaricare il file ZIP:  
@@ -39,8 +46,4 @@ Per scaricare tutto il repository, puoi scegliere tra:
 ✅ **Metodo 2** – Clonare il repository con Git:  
 ```bash
 git clone [https://github.com/MariusGula/IngegneriaFisica-Matematica]
-
----
-
-![Contributors](https://img.shields.io/github/contributors/MariusGula/IngegneriaFisica-Matematica)
 
