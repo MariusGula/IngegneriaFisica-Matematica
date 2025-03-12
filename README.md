@@ -39,3 +39,8 @@ Per scaricare tutto il repository, puoi scegliere tra:
 ✅ **Metodo 2** – Clonare il repository con Git:  
 ```bash
 git clone [https://github.com/MariusGula/IngegneriaFisica-Matematica]
+
+---
+
+![Contributors](https://img.shields.io/github/contributors/MariusGula/IngegneriaFisica-Matematica)
+
