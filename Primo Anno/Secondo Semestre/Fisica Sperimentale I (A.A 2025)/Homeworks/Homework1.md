@@ -4,10 +4,6 @@
 
 Il presente file contiene esclusivamente le risposte, senza alcuna spiegazione.
 
-Il file con le spiegazioni dettagliate delle risposte sarà pubblicato successivamente.
-
-Grazie per la comprensione.
-
 ## Domanda 1
 **Qual è l’ordine di grandezza dell’età di un quarantenne in secondi?**
 - a. 10⁶
